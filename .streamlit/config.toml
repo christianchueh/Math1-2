@@ -1,0 +1,7 @@
+[client]
+# 隱藏右上角選單與下方不必要的按鈕
+showTopBarOnHover = false
+
+[ui]
+# 隱藏主選單與浮水印
+hideTopBar = true
